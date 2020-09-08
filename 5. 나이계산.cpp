@@ -1,8 +1,7 @@
 //#include <iostream>
 //
 //int main(void)
-//{
-//	int front, back, age;
+//{+/
 //
 //	//std::cin >> front;
 //	//std::cin >> back;
