@@ -42,5 +42,8 @@
     <ClCompile Include="9. 모두의 약수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10. 자릿수의 합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
