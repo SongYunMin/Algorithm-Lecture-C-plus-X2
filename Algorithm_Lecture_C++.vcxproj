@@ -149,6 +149,7 @@
     <ClCompile Include="2. 자연수의합.cpp" />
     <ClCompile Include="3. 진약수의 합.cpp" />
     <ClCompile Include="32. 선택정렬.cpp" />
+    <ClCompile Include="33. 3등의 성적.cpp" />
     <ClCompile Include="4. 나이 차이.cpp" />
     <ClCompile Include="5. 나이계산.cpp" />
     <ClCompile Include="56. 재귀함수 분석.cpp" />
