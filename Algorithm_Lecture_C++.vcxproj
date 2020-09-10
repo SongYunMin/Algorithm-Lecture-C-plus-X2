@@ -152,7 +152,11 @@
     <ClCompile Include="33. 3등의 성적.cpp" />
     <ClCompile Include="4. 나이 차이.cpp" />
     <ClCompile Include="5. 나이계산.cpp" />
+    <ClCompile Include="56. 재귀함수 분석 보충(스택 프레임).cpp" />
     <ClCompile Include="56. 재귀함수 분석.cpp" />
+    <ClCompile Include="57. 재기함수 이진수 출력.cpp" />
+    <ClCompile Include="58. 이진트리 깊이우선탐색(DFS).cpp" />
+    <ClCompile Include="59. 부분집합(DFS).cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />
     <ClCompile Include="7. 영어단어 복구.cpp" />
     <ClCompile Include="8. 올바른 괄호.cpp" />

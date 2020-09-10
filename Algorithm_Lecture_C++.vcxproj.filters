@@ -75,5 +75,17 @@
     <ClCompile Include="33. 3등의 성적.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="56. 재귀함수 분석 보충(스택 프레임).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="57. 재기함수 이진수 출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="58. 이진트리 깊이우선탐색(DFS).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="59. 부분집합(DFS).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
