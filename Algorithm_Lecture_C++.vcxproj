@@ -146,6 +146,8 @@
     <ClCompile Include="15. 소수의 개수.cpp" />
     <ClCompile Include="16. Anagram(Google 인터뷰 문제).cpp" />
     <ClCompile Include="17. 선생님 퀴즈.cpp" />
+    <ClCompile Include="18. 층간 소음.cpp" />
+    <ClCompile Include="19. 분노 유발자.cpp" />
     <ClCompile Include="2. 자연수의합.cpp" />
     <ClCompile Include="3. 진약수의 합.cpp" />
     <ClCompile Include="32. 선택정렬.cpp" />
