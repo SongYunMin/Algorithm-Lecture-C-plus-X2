@@ -111,5 +111,8 @@
     <ClCompile Include="22. 온도의 최대값.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="23. 연속 부분 증가수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
