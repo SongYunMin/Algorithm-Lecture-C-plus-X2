@@ -120,5 +120,8 @@
     <ClCompile Include="kakao1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="25. 석차 구하기%28브루트포스%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

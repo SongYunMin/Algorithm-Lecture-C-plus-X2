@@ -154,6 +154,7 @@
     <ClCompile Include="22. 온도의 최대값.cpp" />
     <ClCompile Include="23. 연속 부분 증가수열.cpp" />
     <ClCompile Include="24. Jolly Jumpers.cpp" />
+    <ClCompile Include="25. 석차 구하기%28브루트포스%29.cpp" />
     <ClCompile Include="3. 진약수의 합.cpp" />
     <ClCompile Include="32. 선택정렬.cpp" />
     <ClCompile Include="33. 3등의 성적.cpp" />

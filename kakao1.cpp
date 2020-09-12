@@ -23,7 +23,6 @@
 //		if (answer[i] != '-' && answer[i] != '_' && answer[i] != '.' &&
 //			!(answer[i] >= 97 && answer[i] <= 122) && !(answer[i] >= 48 && answer[i] <= 57))
 //		{
-//			// 참고 : https://jhnyang.tistory.com/116
 //			answer.erase(answer.begin() + answer.find(answer[i]));
 //			i--;
 //		}
@@ -74,7 +73,6 @@
 //	}
 //
 //	// 7단계 2자 조건 
-//	// 출처 : https://modoocode.com/307
 //	if (answer.size() <= 2) {
 //		for (i = answer.size(); i < 3; i++) {
 //			char buf = answer[answer.size() - 1];
