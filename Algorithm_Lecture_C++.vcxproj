@@ -153,6 +153,7 @@
     <ClCompile Include="21. 카드게임.cpp" />
     <ClCompile Include="22. 온도의 최대값.cpp" />
     <ClCompile Include="23. 연속 부분 증가수열.cpp" />
+    <ClCompile Include="24. Jolly Jumpers.cpp" />
     <ClCompile Include="3. 진약수의 합.cpp" />
     <ClCompile Include="32. 선택정렬.cpp" />
     <ClCompile Include="33. 3등의 성적.cpp" />
@@ -171,6 +172,7 @@
     <ClCompile Include="8. 올바른 괄호.cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="12. 숫자의 총 개수%28large%29.cpp" />
+    <ClCompile Include="kakao1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
