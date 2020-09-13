@@ -155,6 +155,7 @@
     <ClCompile Include="23. 연속 부분 증가수열.cpp" />
     <ClCompile Include="24. Jolly Jumpers.cpp" />
     <ClCompile Include="25. 석차 구하기%28브루트포스%29.cpp" />
+    <ClCompile Include="26. 마라톤.cpp" />
     <ClCompile Include="3. 진약수의 합.cpp" />
     <ClCompile Include="32. 선택정렬.cpp" />
     <ClCompile Include="33. 3등의 성적.cpp" />
@@ -174,6 +175,8 @@
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="12. 숫자의 총 개수%28large%29.cpp" />
     <ClCompile Include="kakao1.cpp" />
+    <ClCompile Include="LINE.cpp" />
+    <ClCompile Include="LINE2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
