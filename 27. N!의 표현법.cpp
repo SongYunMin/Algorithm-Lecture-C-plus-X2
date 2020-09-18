@@ -35,7 +35,7 @@ int main(void)
 	for (i = 2; i <= n; i++) {
 		if (ch[i] != 0)printf("%d ", ch[i]);
 	}
-
+	// 이 문제는 N^2 이하로 수행하기 어려움
 
 	return 0;
 }
