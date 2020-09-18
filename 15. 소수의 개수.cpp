@@ -3,7 +3,7 @@
 //// 36이라면 36의 제곱근 까지만 반복하면 됨 
 //int main(void)
 //{
-//	int n, i, j, flag, cnt = 0;		// flag : 소수인지 판별
+//	int n, i, j, flag, cnt = 0, count = 0;		// flag : 소수인지 판별
 //	scanf("%d", &n);
 //	
 //	for (i = 2; i <= n; i++) {
@@ -18,9 +18,10 @@
 //	}
 //
 //	printf("%d\n", cnt);
+//	printf("%d\n", count);
 //	return 0;
 //}
-
+//
 //// 아래 방식은 1초 시간내에 할 수 없음
 ////int main(void)
 ////{
