@@ -157,6 +157,7 @@
     <ClCompile Include="25. 석차 구하기%28브루트포스%29.cpp" />
     <ClCompile Include="26. 마라톤.cpp" />
     <ClCompile Include="27. N!의 표현법.cpp" />
+    <ClCompile Include="28. N!에서 0의 개수(소인수분해 응용).cpp" />
     <ClCompile Include="3. 진약수의 합.cpp" />
     <ClCompile Include="32. 선택정렬.cpp" />
     <ClCompile Include="33. 3등의 성적.cpp" />

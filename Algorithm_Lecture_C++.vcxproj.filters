@@ -135,5 +135,8 @@
     <ClCompile Include="27. N!의 표현법.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="28. N!에서 0의 개수(소인수분해 응용).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
