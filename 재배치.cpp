@@ -10,15 +10,19 @@ int n, m;	// 재배치될 20학번 = n, 멘토 인원 = m
 std::vector<std::string> Relocation(std::vector<std::string> studentCouncil, std::vector<int> num,
 	std::vector<std::string> freahMan)
 {
-	std::vector<int> random_Num(m);
+	int random_Num;
 	std::cout << "재배치 될 학생을 배분합니다" << std::endl;
 	srand((unsigned int)time(NULL));
 	for (int i = 0; i < n; i++) {
+		random_Num = rand() % m + 0;
+		if (num[random_Num] < 4) {
+			num[random_Num]++;
+		}
 		for (int j = 0; j < n; j++) {
-			if (random_Num[i] == random_Num[j]) {
-				i--;
-				break;
-			}
+			//if (random_Num[i] == random_Num[j]) {
+			//	i--;
+			//	break;
+			//}
 		}
 	}
 }
