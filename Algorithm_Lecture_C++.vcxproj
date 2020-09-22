@@ -179,6 +179,8 @@
     <ClCompile Include="kakao1.cpp" />
     <ClCompile Include="LINE.cpp" />
     <ClCompile Include="LINE2.cpp" />
+    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="재배치.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
