@@ -158,6 +158,7 @@
     <ClCompile Include="26. 마라톤.cpp" />
     <ClCompile Include="27. N!의 표현법.cpp" />
     <ClCompile Include="28. N!에서 0의 개수(소인수분해 응용).cpp" />
+    <ClCompile Include="29. 3의 개수는(구글 인터뷰).cpp" />
     <ClCompile Include="3. 진약수의 합.cpp" />
     <ClCompile Include="32. 선택정렬.cpp" />
     <ClCompile Include="33. 3등의 성적.cpp" />
