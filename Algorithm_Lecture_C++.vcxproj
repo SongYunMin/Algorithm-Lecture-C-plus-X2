@@ -177,6 +177,7 @@
     <ClCompile Include="8. 올바른 괄호.cpp" />
     <ClCompile Include="9. 모두의 약수.cpp" />
     <ClCompile Include="12. 숫자의 총 개수%28large%29.cpp" />
+    <ClCompile Include="Compiler_Vocabulary_Analyzer.c" />
     <ClCompile Include="kakao1.cpp" />
     <ClCompile Include="LINE.cpp" />
     <ClCompile Include="LINE2.cpp" />
