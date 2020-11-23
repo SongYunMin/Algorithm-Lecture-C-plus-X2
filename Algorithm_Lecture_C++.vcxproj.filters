@@ -150,7 +150,7 @@
     <ClCompile Include="Compiler_Vocabulary_Analyzer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="38. Inversion Sequence.cpp">
+    <ClCompile Include="38. Inversion_Sequence.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
