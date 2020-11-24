@@ -156,5 +156,8 @@
     <ClCompile Include="39. 두 배열 합치기(병합정렬 예비학습).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="40. 교집합(투포인트 알고리즘 - MS인터뷰, 제한시간1초).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
