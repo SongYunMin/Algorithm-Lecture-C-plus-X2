@@ -1,33 +1,43 @@
 //#include <stdio.h>
-//#include <stdlib.h>
 //#include <iostream>
-//
-//int C[20];
+//#include <stdlib.h>
+//#include <vector>
 //
 //int main(void)
 //{
-//	int s, n, a, i, j, pos;
-//	scanf("%d %d", &s, &n);
+//	std::vector<int> arr(20);
+//	int S, N, pos, i, j, a;
 //
-//	for (i = 1; i <= n; i++) {
-//		scanf("%d", &a);
+//	std::cin >> S >> N;
+//
+//	for (i = 1; i <= N; i++) {
+//		std::cin >> a;
 //		pos = -1;
-//		// Hit or Miss 판단
-//		for (j = 0; j < s; j++) if (C[j] == a) pos = j;
-//		// Miss 일 때
-//		if (pos == -1) {
-//			for (j = s - 1; j >= 1; j--) C[j] = C[j - 1];
+//		// Hit And Miss 판단
+//		for (j = 0; j < S; j++) {
+//			if (arr[j] == a) {			// Queue에 데이터가 존재한다면
+//				pos = j;
+//			}
 //		}
-//		// Hit 일 때
+//		// Miss
+//		if (pos == -1) {			// Queue에 데이터가 존재하지 않는다면
+//			for (j = S - 1; j >= 1; j--) {
+//				arr[j] = arr[j - 1];	// 하나씩 뒤로 땡김
+//			}
+//		}
+//		// Hit
 //		else {
-//			// 뒤로 하나씩 땡김 (1까지만 반복)
-//			for (j = pos; j >= 1; j--) C[j] = C[j - 1];
+//			for (j = pos; j >= 1; j--) {
+//				arr[j] = arr[j - 1];
+//			}
 //		}
-//		C[0] = a;
+//		// 데이터를 땡겨놓고 맨 앞자리에 대상 데이터 삽입 함
+//		arr[0] = a;
 //	}
 //
-//	for (i = 0; i < s; i++) {
-//		printf("%d", C[i]);
+//	// Print
+//	for (i = 0; i < S; i++) {
+//		std::cout << arr[i] << " ";
 //	}
 //
 //	return 0;
