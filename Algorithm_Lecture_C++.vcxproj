@@ -170,10 +170,12 @@
     <ClCompile Include="4. 나이 차이.cpp" />
     <ClCompile Include="40. 교집합(투포인트 알고리즘 - MS인터뷰, 제한시간1초).cpp" />
     <ClCompile Include="41. 연속된 자연수의 합.cpp" />
+    <ClCompile Include="42. 이분검색.cpp" />
+    <ClCompile Include="43. 뮤직비디오(이분검색 응용).cpp" />
     <ClCompile Include="5. 나이계산.cpp" />
     <ClCompile Include="56. 재귀함수 분석 보충(스택 프레임).cpp" />
     <ClCompile Include="56. 재귀함수 분석.cpp" />
-    <ClCompile Include="57. 재기함수 이진수 출력.cpp" />
+    <ClCompile Include="57. 재귀함수 이진수 출력.cpp" />
     <ClCompile Include="58. 이진트리 깊이우선탐색(DFS).cpp" />
     <ClCompile Include="59. 부분집합(DFS).cpp" />
     <ClCompile Include="6. 숫자만 추출.cpp" />

@@ -78,9 +78,6 @@
     <ClCompile Include="56. 재귀함수 분석 보충(스택 프레임).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="57. 재기함수 이진수 출력.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="58. 이진트리 깊이우선탐색(DFS).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -160,6 +157,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="41. 연속된 자연수의 합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="42. 이분검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="57. 재귀함수 이진수 출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="43. 뮤직비디오(이분검색 응용).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
