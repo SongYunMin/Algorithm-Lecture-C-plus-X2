@@ -172,6 +172,7 @@
     <ClCompile Include="41. 연속된 자연수의 합.cpp" />
     <ClCompile Include="42. 이분검색.cpp" />
     <ClCompile Include="43. 뮤직비디오(이분검색 응용).cpp" />
+    <ClCompile Include="44. 마구간 정하기%28이분검색 응용 - 결정 알고리즘%29.cpp" />
     <ClCompile Include="5. 나이계산.cpp" />
     <ClCompile Include="56. 재귀함수 분석 보충(스택 프레임).cpp" />
     <ClCompile Include="56. 재귀함수 분석.cpp" />
