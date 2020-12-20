@@ -1,20 +1,21 @@
-//#include <stdio.h>
+//#include <iostream>
+//#include <vector>
+//#include <algorithm>
 //
 //void recur(int x)
 //{
-//	if (x == 0) return;
+//	if (x == 0) return;				// 종료 지점
+//	// 종료 지점의 가지 않았다면
 //	else {
-//		// 여기다 printf 하면 3 2 1 이 출력 됨
 //		recur(x - 1);
-//		printf("%d ", x);
+//		std::cout << x << " ";		// 출력을 재귀 밑에 두면 거꾸로 출력 됨
 //	}
 //}
 //
-//int main(void)
+//int main()
 //{
 //	int n;
-//	scanf("%d", &n);
-//
+//	std::cin >> n;
 //	recur(n);
 //
 //	return 0;

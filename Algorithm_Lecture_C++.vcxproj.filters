@@ -177,5 +177,23 @@
     <ClCompile Include="44. 마구간 정하기%28이분검색 응용 - 결정 알고리즘%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="45. 공주 구하기(조세퍼스).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="60. 합이 같은 부분집합(DFS - Amazon 인터뷰).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="61. 특정 수 만들기(MS 인터뷰 문제 - DFS 완전 탐색).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="62. 병합정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="63. 인접행렬(가중치 방향그래프).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="64. 경로탐색(DFS).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
